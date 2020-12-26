@@ -1,7 +1,7 @@
 package java1;
 
 import java.util.Scanner;
-
+//addition and multiplication of matrices
 public class MatrixAdd {
 	static Scanner s=new Scanner(System.in);
 	int r1,c1,r2,c2;
