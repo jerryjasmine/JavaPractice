@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class PrimeNumber {
 	static Scanner s=new Scanner(System.in);
-
+//given no is prime no or not
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 int n;
