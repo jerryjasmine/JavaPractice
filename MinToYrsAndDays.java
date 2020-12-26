@@ -3,7 +3,7 @@ package java1;
 import java.util.*;
 
 public class MinToYrsAndDays {
-//converting minutes to days
+//converting minutes to years and days
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 	
