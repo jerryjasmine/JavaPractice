@@ -1,7 +1,7 @@
 package java1;
 
 import java.util.Scanner;
-
+//switch case implementation
 public class SwitchCase {
 
 	public static void main(String[] args) {
