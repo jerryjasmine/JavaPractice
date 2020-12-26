@@ -1,7 +1,7 @@
 package java1;
 
 import java.util.Scanner;
-
+//program to print employee details
 public class Employee {
 	static Scanner s=new Scanner(System.in);
 	String name,address;
